@@ -27,8 +27,12 @@
 				}
 			};
 		};
+		if(l4) {
+			input4(l4);
+			return;
+		}
+		
 		console.log(buffer);
-		if(l4) input4(l4);
 	}
 
 	window.input4 = function(letters) {
