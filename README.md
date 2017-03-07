@@ -4,13 +4,13 @@ For the game "Keep Talking and Nobody Explodes".
 
 For the Password Module, 
 
-Input the 1st column letters as a string: input1('asdfg') This also resets previous filters.
+Input the 1st column letters as a string: __ input1('asdfg') __ This also resets previous filters.
 
-Then input the 3rd and 4th column the same way: input3('asdfg'); input4('asdfg');
+Then input the 3rd and 4th column the same way: __ input3('asdfg'); input4('asdfg'); __
 Each input will print the possible answers.
 
 
-# More info:
+## More info:
   Suposedly most cases give you a single answer if you only input the 1st and 4th column.
   
   I think there are 2 cases where you input all 3 columns and the result is 2 posibilities.
