@@ -10,7 +10,7 @@ Then input the 3rd and 4th column the same way: input3('asdfg'); input4('asdfg')
 Each input will print the possible answers.
 
 
-More info:
+# More info:
   Suposedly most cases give you a single answer if you only input the 1st and 4th column.
   
   I think there are 2 cases where you input all 3 columns and the result is 2 posibilities.
