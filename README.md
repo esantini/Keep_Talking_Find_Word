@@ -6,7 +6,7 @@ For the Password Module,
 
 Input the 1st column letters as a string: __input1('asdfg')__ This also resets previous filters.
 
-Then input the 3rd and 4th column the same way: __ input3('asdfg'); input4('asdfg'); __
+Then input the 3rd and 4th column the same way: __input3('asdfg'); input4('asdfg');__
 Each input will print the possible answers.
 
 
